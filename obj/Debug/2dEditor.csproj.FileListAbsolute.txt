@@ -1,0 +1,9 @@
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\bin\Debug\2dEditor.exe.config
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\bin\Debug\2dEditor.exe
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\bin\Debug\2dEditor.pdb
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\2dEditor.csprojResolveAssemblyReference.cache
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\Editor.EditorWindow.resources
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\Editor.Properties.Resources.resources
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\2dEditor.csproj.GenerateResource.Cache
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\2dEditor.exe
+C:\Users\Legio\documents\visual studio 2013\Projects\2dEditor\2dEditor\obj\Debug\2dEditor.pdb
